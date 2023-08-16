@@ -17,5 +17,5 @@ Acest ghid pas cu pas ar trebui să îți ofere o înțelegere clară a funcțio
 8. Inițializarea mesajului de bun venit: La început, se afișează mesajul de bun venit "Good, you have no tasks today!" folosind funcția displayMessage().
 
 AlinL
-https://github.com/lechinal
+https://github.com/lechinal,
 www.linkedin.com/in/alin-lechintan-2582b181
