@@ -18,3 +18,4 @@ Acest ghid pas cu pas ar trebui să îți ofere o înțelegere clară a funcțio
 
 AlinL
 https://github.com/lechinal
+www.linkedin.com/in/alin-lechintan-2582b181
